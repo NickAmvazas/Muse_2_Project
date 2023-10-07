@@ -19,7 +19,9 @@ __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09
 
 <br>
 You can find more technical specifications about Muse 2 devices at https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf, https://choosemuse.com/products/muse-2.
+
 ________________________________________________________________
+
 ## Requirements
 
 - __Python__ _3.6 - 3.10_ <br>
