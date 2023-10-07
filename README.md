@@ -97,10 +97,10 @@ ________________________________________________________________
 ________________________________________________________________
 
 # Dataset
--Total Movements: __1098__
--Training Set: __80%__
--Test Set: __20%__
--Cross Validation: *k=__6__* folds *(from training set)*
+-Total Movements: __1098__<br>
+-Training Set: __80%__<br>
+-Test Set: __20%__<br>
+-Cross Validation: *k=__6__* folds *(from training set)*<br>
 <img src="/Images/readme/Dataset.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 
 ________________________________________________________________
