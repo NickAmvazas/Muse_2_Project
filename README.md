@@ -6,7 +6,7 @@ A (4 page) research paper was developed based on this project, whose submission 
 __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09/11/2023*:<br>
 <sup>*N. Amvazas, S. Moschopoulos, K. Koritsoglou, G. Tatsis, I. Fudos, D. Tzovaras, <br>Introducing a highaccuracy brain-computer interface (BCI) for intelligent wheelchairs, Aug-Sept 2023.*<sup>
 
-## Muse 2 Device
+# Muse 2 Device
 <img src="/Images/readme/Muse_2.png" style="display: inline-block; margin: 0 auto; max-width: 300px"><br>
 - __Bluetooth Connectivity__: It connects to pc, smartphone or tablet (*iOS, Android*) via __Bluetooth__, enabling seamless data transfer and synchronization with the app.
 - __Portable & Comfortable__: Lightweight and comfortable to wear during recording sessions.
@@ -27,11 +27,11 @@ ________________________________________________________________
 - __sklearn__ _v.1.2.2_ <br>
 - __tensorflow (keras)__ _v.2.10.0_
 
-## Workflow Diagram
+# Workflow Diagram
 <img src="/Images/readme/Workflow.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 ________________________________________________________________
 
-## Files
+# Files
 - __RAW_MUSE_DATA:__ Contains raw signals, from recordings during the experimental procedure.Each session is stored as a separate *.csv* file.
 <img src="/Images/readme/csv.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 - __MY_DATA:__ 
@@ -42,7 +42,7 @@ ________________________________________________________________
 - __*EEG_GS_Classification.ipynb*:__ Contains all the steps of the workflow (Preprocessing, Feature Extraction, Data Splitting, Model Training and Results).
 ________________________________________________________________
 
-## Eye & Head Movements Categories with Labels
+# Eye & Head Movements Categories with Labels
 <table>
   <tr>
     <th>Labels</th>
@@ -87,7 +87,7 @@ ________________________________________________________________
 </table>
 ________________________________________________________________
 
-## Dataset
+# Dataset
 -Total Movements: __1098__
 -Training Set: __80%__
 -Test Set: __20%__
@@ -96,10 +96,10 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-## Models
+# Models
 <img src="/Images/readme/models.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 
 ________________________________________________________________
 
-## Results
+# Results
 <img src="/Images/readme/Results.png" style="display: inline-block; margin: 0 auto; max-width: 900px"><br>
