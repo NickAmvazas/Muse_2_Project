@@ -4,7 +4,7 @@ ________________________________________________________________
 #### HI-BI-BI / ASONAM 2023
 A (4 page) research paper was developed based on this project, whose submission to the 
 __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09/11/2023*:<br>
-<sup>*N. Amvazas, S. Moschopoulos, K. Koritsoglou, G. Tatsis, I. Fudos, D. Tzovaras, <br>Introducing a highaccuracy brain-computer interface (BCI) for intelligent wheelchairs, Aug-Sept 2023.*<sup>
+<sup>*N. Amvazas, S. Moschopoulos, K. Koritsoglou, G. Tatsis, I. Fudos, D. Tzovaras, Introducing a highaccuracy brain-computer interface (BCI) for intelligent wheelchairs, Aug-Sept 2023.*<sup>
 
 # Muse 2 Device
 <img src="/Images/readme/Muse_2.png" style="display: inline-block; margin: 0 auto; max-width: 300px"><br>
