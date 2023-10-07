@@ -17,6 +17,7 @@ __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09
 <sup> You can find more technical specifications about Muse 2 devices at [Muse_Technical_Specs](https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf), [Muse 2](https://choosemuse.com/products/muse-2).<sup>
 ________________________________________________________________
 ## Requirements
+
 - __Python__ _3.6 - 3.10_ <br>
 - __MuseLSL__ *(Used for the signal recordings during the experimental procedure)*
 - __pandas__ _v.2.0.2_ <br>
@@ -28,6 +29,7 @@ ________________________________________________________________
 - __tensorflow (keras)__ _v.2.10.0_
 
 # Workflow Diagram
+
 <img src="/Images/readme/Workflow.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 ________________________________________________________________
 
