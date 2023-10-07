@@ -18,7 +18,7 @@ __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09
 - __Gyroscope & Accelerometer Sensors__: The device is equipped with Gyroscope & Accelerometer sensors giving data in 3-axis __X,Y,Z__ with sampling rate of __52 Hz__.<br>
 
 <br>
-You can find more technical specifications about Muse 2 devices at [Muse_Technical_Specs](https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf), [Muse 2](https://choosemuse.com/products/muse-2).
+You can find more technical specifications about Muse 2 devices at https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf, https://choosemuse.com/products/muse-2.
 ________________________________________________________________
 ## Requirements
 
