@@ -21,7 +21,6 @@ __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09
 You can find more technical specifications about Muse 2 devices at https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf, 
 https://choosemuse.com/products/muse-2. <br>
 
-________________________________________________________________
 
 ## Requirements
 
@@ -38,7 +37,7 @@ ________________________________________________________________
 # Workflow Diagram
 
 <img src="/Images/readme/Workflow.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
-________________________________________________________________
+
 
 # Files
 - __RAW_MUSE_DATA:__ Contains raw signals, from recordings during the experimental procedure.Each session is stored as a separate *.csv* file.
@@ -49,7 +48,6 @@ ________________________________________________________________
 -- __Keras_Models__: Houses the __4__ *(deep learning)* trained models (__*MLP, LSTM, CNN, CNN-LSTM*__) *(for each iteration from cross validation)*.
 - __*segmentation_tool.py*:__ The tool we designe to extract movements *(data)*, from each session of the experimental procedure.
 - __*EEG_GS_Classification.ipynb*:__ Contains all the steps of the workflow (Preprocessing, Feature Extraction, Data Splitting, Model Training and Results).
-________________________________________________________________
 
 # Eye & Head Movements Categories with Labels
 <table>
@@ -94,7 +92,7 @@ ________________________________________________________________
     <td>Unknown</td>
   </tr>
 </table>
-________________________________________________________________
+
 
 # Dataset
 - Total Movements: __1098__<br>
@@ -103,12 +101,11 @@ ________________________________________________________________
 - Cross Validation: *k=__6__* folds *(from training set)*<br>
 <img src="/Images/readme/Dataset.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 
-________________________________________________________________
 
 # Models
 <img src="/Images/readme/models.png" style="display: inline-block; margin: 0 auto; max-width: 700px"><br>
 
-________________________________________________________________
+
 
 # Results
 <img src="/Images/readme/Results.png" style="display: inline-block; margin: 0 auto; max-width: 900px"><br>
