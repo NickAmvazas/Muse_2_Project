@@ -12,6 +12,8 @@ __HI-BI-BI/ASONAM 2023__ conference was accepted and will be published on *06-09
 - __Portable & Comfortable__: Lightweight and comfortable to wear during recording sessions.
 - __EEG Sensors__: The device is equipped with __4 EEG__ (electroencephalogram) sensors (__*AF7,AF8,TP9,TP10*__) strategically placed on the headband, *based on the 10-20 system*, using the __Referential montage__ with __FPz__ as the Reference electrode. These sensors are designed to measure and record electrical activity from the user's brain. EEG sensors have a sampling rate of __256 Hz__, which means that they capture 256 data points (samples) per second from each sensor.<br> 
 <img src="/Images/readme/Muse_10-20.png" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
 <sup>*Also Muse 2 has two micro-USB ports on the back of the ear pods where two auxiliary electrodes can be attached. These electrodes can be used to measure EMG, ECG, or EEG on other areas of the head or body.*<sup>
 - __Gyroscope & Accelerometer Sensors__: The device is equipped with Gyroscope & Accelerometer sensors giving data in 3-axis __X,Y,Z__ with sampling rate of __52 Hz__.<br>
 <sup> You can find more technical specifications about Muse 2 devices at [Muse_Technical_Specs](https://www.eegsales.com/Shared/images/General%20Use/PDF%20Files/Muse_Technical_Specs.pdf), [Muse 2](https://choosemuse.com/products/muse-2).<sup>
